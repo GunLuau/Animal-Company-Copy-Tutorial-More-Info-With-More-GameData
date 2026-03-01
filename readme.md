@@ -1,9 +1,8 @@
 # Clone OG Animal Company (Xera Backend)
-
 CREDITS:
 
 Xera - Developer  
-Protogen - Adding to guide.
+Protogen - Adding to guide
 GunyahJohnVR - Adding Newest Update Gamedata and Changing NativeLib Url
 
 1. Install Base APK & Gamedata
