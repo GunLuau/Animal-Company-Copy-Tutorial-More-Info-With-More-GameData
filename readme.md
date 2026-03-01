@@ -2,7 +2,7 @@
 CREDITS:
 
 Xera - Developer  
-GunyahJohnVR - Adding Newest Gamedata
+GunyahJohnVR - Newest Gamedata
 Protogen - Adding to guide
 
 1. Install Base APK & Gamedata
